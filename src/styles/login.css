@@ -1,0 +1,32 @@
+/* Login.css */
+
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    min-height: 100vh;
+  }
+  
+  .heading h2 {
+    color: #96C9F4;
+  }
+  
+  .btn-primary-custom {
+    background-color: #96C9F4;
+    border-color: #96C9F4;
+  }
+  
+  .btn-primary-custom:hover {
+    background-color: #81b3e2;
+    border-color: #81b3e2;
+  }
+  
+  .card-custom {
+    background-color: #ffffff;
+    border: 1px solid #dcdcdc;
+    margin-top: -10px; /* Adjust value as needed */
+  }
+  
